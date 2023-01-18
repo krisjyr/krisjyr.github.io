@@ -2,7 +2,7 @@ let audiomute = false
 const timezone = 2;
 const hoursToMilli = timezone * 60 * 60 * 1000;
 
-const when = new Date("2023-01-01");
+const when = new Date("2023-05-08");
 
 function delay(milliseconds) {
   return new Promise((resolve) => {
